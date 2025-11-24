@@ -1,5 +1,3 @@
-Here is a single-file app.R that does what you described.
-
 # app.R
 library(shiny)
 
